@@ -7,6 +7,7 @@ procedural or object-oriented programming languages.
 
 Learning Outcomes:
 <ul>
+<li>Use Eclipse Development Environment</li>
 <li>Demonstrate skills in problem solving.</li>
 <li>Demonstrate fundamental programming skills using conditionals and iteration.</li>
 <li>Demonstrate object-oriented programming skills by designing and writing Java programs that use multiple interacting classes, inheritance and polymorphism.</li>
