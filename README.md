@@ -1,4 +1,4 @@
-# Introduction-To-Software-Development-2
+# Introduction To Software Development 2
 This hands-on intensive course continues on from and requires the object-oriented programming experience covered in COMP 1409. 
 The language of example is Java, which is used to provide a solid foundation in current programming concepts and methodologies, 
 with a focus on problem solving. Topics include: data abstraction, modularity, object-oriented programming concepts (encapsulation, 
